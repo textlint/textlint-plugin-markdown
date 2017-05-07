@@ -1,5 +1,7 @@
 # textlint-plugin-markdown [![Build Status](https://travis-ci.org/textlint/textlint-plugin-markdown.svg?branch=master)](https://travis-ci.org/textlint/textlint-plugin-markdown)
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/textlint/textlint-plugin-markdown.svg)](https://greenkeeper.io/)
+
 Markdown support for [textlint](https://github.com/textlint/textlint "textlint").
 
 ## Installation
