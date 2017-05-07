@@ -1,1 +1,0 @@
-{"version":3,"sources":["../src/index.js"],"names":[],"mappings":";AACA;;;;;kBACe;AACX,eAAW,QAAQ,qBAAR;AADA,C","file":"index.js","sourcesContent":["// LICENSE : MIT\n\"use strict\";\nexport default {\n    Processor: require(\"./MarkdownProcessor\")\n};"]}
